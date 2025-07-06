@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['data_0',['data',['../classnode.html#a2d890bb9f6af0ffd73fe79b21124c2a2',1,'node']]],
+  ['dokumentasi_20project_20stack_20linked_20list_1',['Dokumentasi Project Stack Linked List',['../index.html',1,'']]]
+];
